@@ -1,0 +1,70 @@
+#######################################
+# Mirobot库 关键字
+# 勤牛创智 / www.wlkata.com
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+UART_Mirobot	KEYWORD1
+RS485_Mirobot	KEYWORD1
+
+#######################################
+# Functions (KEYWORD2)
+#######################################
+
+serialInit	KEYWORD2
+setSerialMonitoring	KEYWORD2
+setCmdTimeout	KEYWORD2
+homing	KEYWORD2
+zero	KEYWORD2
+setMoveSpeed	KEYWORD2
+setJumpPara	KEYWORD2
+timedPause	KEYWORD2
+moveJoints	KEYWORD2
+movePose	KEYWORD2
+moveArc	KEYWORD2
+gripper	KEYWORD2
+softGripper	KEYWORD2
+pump	KEYWORD2
+pwmWrite	KEYWORD2
+moveConveyor	KEYWORD2
+moveRail	KEYWORD2
+getStatus	KEYWORD2
+runFile	KEYWORD2
+sendMsg	KEYWORD2
+rs485Init	KEYWORD2
+
+shieldInit	KEYWORD2
+shieldRgb	KEYWORD2
+shieldBuzzer	KEYWORD2
+buzzerAlarm	KEYWORD2
+shieldKeyValue	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MOVJ	LITERAL1
+MOVL	LITERAL1
+JUMP	LITERAL1
+ON	LITERAL1
+OFF	LITERAL1
+GRAB	LITERAL1
+BLOW	LITERAL1
+ABS	LITERAL1
+INC	LITERAL1
+CW	LITERAL1
+CCW	LITERAL1
+Offline	LITERAL1
+Idle	LITERAL1
+Alarm	LITERAL1
+Run	LITERAL1
+Busy	LITERAL1
+RED	LITERAL1
+GREEN	LITERAL1
+BLUE	LITERAL1
+SW1	LITERAL1
+SW2	LITERAL1
+RECV_PIN	LITERAL1
